@@ -29,7 +29,7 @@ setup(
         'Intended Audience :: Developers',
         'License :: OSI Approved :: Apache Software License',
         'Programming Language :: Python :: 2.7'
-    ],
+    ], create bug
     keywords='demos samples logistics hybrid-cloud microservices',
     packages=find_packages(),
     install_requires=['Flask,Flask-Cors>=2,gunicorn>=19,requests>=2,PyJWT>=1,decorator>=4'],
